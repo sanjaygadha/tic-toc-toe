@@ -25,7 +25,7 @@ body {
   align-items: center;
   text-align: center;
   padding: 30px;
-  background: linear-gradient(135deg, #fdfcfb, #e2d1c3);
+  /* background: linear-gradient(135deg, #fdfcfb, #e2d1c3); */
   color: #333;
 }
 
